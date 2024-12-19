@@ -27,3 +27,6 @@ A simple weather application that fetches current weather data and a 5-day forec
 
 ## License
 This project is open-source and available under the MIT License.
+
+## Live link
+https://gabrielkinyua.github.io/Weather-App/
